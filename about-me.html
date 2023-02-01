@@ -29,6 +29,38 @@
 	<link rel="stylesheet" href="css/custom.css" type="text/css" />
 	<meta name="viewport" content="width=device-width, initial-scale=1" />
 
+		<!-- Adding Jquery -->
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script> 
+		<!-- / -->
+		
+		<!-- Getting navbar and footer -->
+		<script defer>
+			$.get("navbar.html", function(data){
+				$("#nav-placeholder").replaceWith(data);
+			});
+		</script> 
+		<script defer>
+			$.get("footer.html", function(data){
+				$("#footer-placeholder").replaceWith(data);
+			});
+		</script> 
+		<!-- / -->	<!-- Adding Jquery -->
+	 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script> 
+	<!-- / -->
+	
+	<!-- Getting navbar and footer -->
+	<script defer>
+		$.get("navbar.html", function(data){
+			$("#nav-placeholder").replaceWith(data);
+		});
+	</script> 
+	<script defer>
+		$.get("footer.html", function(data){
+			$("#footer-placeholder").replaceWith(data);
+		});
+	</script> 
+	<!-- / -->
+
 	<!-- Document Title
 	============================================= -->
 	<title>About Me - Writer | Canvas</title>
@@ -43,58 +75,8 @@
 
 		<!-- Header
 		============================================= -->
-		<header id="header" class="transparent-header dark header-size-custom" data-sticky-shrink="false" data-sticky-class="semi-transparent">
-			<div id="header-wrap">
-				<div class="container">
-					<div class="header-row justify-content-lg-between">
-
-						<!-- Logo
-						============================================= -->
-						<div id="logo" class="col-auto me-lg-0 order-lg-2">
-							<a href="/" class="standard-logo"><img src="writer/images/logo.png" alt="Canvas Logo"></a>
-							<a href="/" class="retina-logo"><img src="writer/images/logo@2x.png" alt="Canvas Logo"></a>
-						</div><!-- #logo end -->
-
-						<div id="primary-menu-trigger">
-							<svg class="svg-trigger" viewBox="0 0 100 100"><path d="m 30,33 h 40 c 3.722839,0 7.5,3.126468 7.5,8.578427 0,5.451959 -2.727029,8.421573 -7.5,8.421573 h -20"></path><path d="m 30,50 h 40"></path><path d="m 70,67 h -40 c 0,0 -7.5,-0.802118 -7.5,-8.365747 0,-7.563629 7.5,-8.634253 7.5,-8.634253 h 20"></path></svg>
-						</div>
-
-						<!-- Primary Navigation
-						============================================= -->
-						<nav class="primary-menu not-dark col-lg-auto order-lg-1">
-
-							<ul class="menu-container">
-								<li class="menu-item"><a class="menu-link" href="index.html"><div>home</div></a></li>
-								<li class="menu-item"><a class="menu-link" href="article-single.html"><div>Articles</div></a>
-									<ul class="sub-menu-container">
-										<li class="menu-item"><a class="menu-link" href="article-single.html"><div>A Key of Mind</div></a></li>
-										<li class="menu-item"><a class="menu-link" href="article-single.html"><div>Knight of the Light</div></a></li>
-										<li class="menu-item"><a class="menu-link" href="article-single.html"><div>Jars &amp; The Ten Killer</div></a></li>
-										<li class="menu-item"><a class="menu-link" href="article-single.html"><div>Love without Flaws</div></a></li>
-										<li class="menu-item"><a class="menu-link" href="article-single.html"><div>Pirates of Water</div></a></li>
-										<li class="menu-item"><a class="menu-link" href="article-single.html"><div>Amusing the Jungle</div></a></li>
-									</ul>
-								</li>
-								<li class="menu-item"><a class="menu-link" href="about-me.html"><div>About Me</div></a></li>
-							</ul>
-
-						</nav>
-
-						<nav class="primary-menu not-dark col-lg-auto order-lg-3">
-
-							<ul class="menu-container justify-content-lg-end">
-								<li class="menu-item"><a class="menu-link" href="testimonials.html"><div>Testimonials</div></a></li>
-								<li class="menu-item"><a class="menu-link" href="contact.html"><div>Contact</div></a></li>
-								<li class="menu-item"><a class="menu-link" href="qualification.html"><div>Qualification</div></a></li>
-							</ul>
-
-						</nav><!-- #primary-menu end -->
-
-					</div>
-				</div>
-			</div>
-			<div class="header-wrap-clone"></div>
-		</header><!-- #header end -->
+		<div  id="nav-placeholder"></div>
+		<!-- #header end -->
 
 		<!-- Slider
 		============================================= -->
@@ -107,7 +89,7 @@
 						<div class="row">
 							<div class="col-lg-6 offset-lg-1 col-md-8">
 								<div class="emphasis-title bottommargin-sm">
-									<h1><span><em>Engr. Kamal Shahid.</em></span></h1>
+									<h1><span><em>Kamal Shahid, PhD</em></span></h1>
 									<p class="lead text-white-50">
 										I graduated as an Electrical Engineer (specialization in Communication and Electronics) from University of Central Punjab, Lahore, Pakistan in 2008 and started my career as a BSS Engineer at China Mobile Pakistan (CMPak) – a subsidiary of China Mobile Communications Corporation. After working on several projects here for around 9 months, I intentionally shifted to the teaching and research division and started working as a Lecturer in the Department of Electrical Engineering, GC University, Faisalabad. </p>
 								</div>
