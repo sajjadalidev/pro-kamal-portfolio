@@ -8,7 +8,7 @@ fetch("/journals.json")
 
         const html = 
         `<div class="card mt-4" style="width:18rem" class="text-light">
-        <a class="text-decoration-none" style="color:white;"  href="https://doi.org/${obj.doi}">
+        <a class="text-decoration-none" target="_blank" style="color:white;"  href="https://doi.org/${obj.doi}">
             <img src="./images/${index}.png" class="card-img-top" alt="...">
             <div class="card-body">
             <h4 class="card-title">${obj.title}</h4>
