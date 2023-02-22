@@ -1,0 +1,70 @@
+{  "1" : {
+    "authors": "Yonghao Gui, Karthikeyan Nainar, Catalin-Iosif Ciontea, Jan D. Bendtsen, Florin Iov, Kamal Shahid, and Jakob Stoustrup",
+    "title": "Automatic Voltage Regulation Application for PV Inverters in Low-Voltage Distribution Grids – A Digital Twin Approach",
+    "journal": "International Journal of Electrical Power & Energy Systems",
+    "volume": "149",
+    "year": "2023",
+    "doi":"10.1016/j.ijepes.2023.109022"
+    },
+    "2": {
+    "authors": "Muhammad Majid Gulzar, Sadia Murawwat, Daud Sibtain, Kamal Shahid, Imran Javed, and Yonghao Gui",
+    "title": "Modified cascaded controller design constructed on fractional operator ′β′ to mitigate frequency fluctuations for sustainable operation of power systems",
+    "journal": "Energies",
+    "volume": "15",
+    "doi": "10.3390/en15207814",
+    "year": "2022"
+    },
+    "3": {
+    "authors": "Asma Farooq, Kamal Shahid, Yonghao Gui, and Rasmus Løvenstein Olsen",
+    "title": "Impact of cyber-attack on coordinated voltage control in low voltage grids",
+    "journal": "IET Renewable Power Generation",
+    "doi": "10.1049/rpg2.12571",
+    "year": "2022"
+    },
+    "4": {
+    "authors": "Daud Sibtain, Muhammad Majid Gulzar, Kamal Shahid, Imran Javed, Sadia Murawwat, and Muhammad Majid Hussain",
+    "title": "Stability analysis and design of variable step-size P&O algorithm based on fuzzy robust tracking of MPPT for standalone/grid connected power system",
+    "journal": "Sustainability",
+    "volume": "14",
+    "doi": "10.3390/su14158986",
+    "year": "2022"
+    },
+    "5": {
+    "authors": "Muhammad Yaqoob Javed, Iqbal Ahmed Khurshid, Aamer Bilal Asghar, Syed Tahir Hussain Rizvi, Kamal Shahid, and Krzysztof Ejsmont",
+    "title": "An efficient estimation of wind turbine output power using neural networks",
+    "journal": "Energies",
+    "volume": "15",
+    "doi": "10.3390/en15145210",
+    "year": "2022"
+    },
+    "6": {
+        "title": "Experimental validation and deployment of observability applications for monitoring of low-voltage distribution grids",
+        "authors": "Karthikeyan Nainar, Catalin Iosif Ciontea, Kamal Shahid, Florin Iov, Rasmus Løvenstein Olsen, Christine Schäler, Hans-Peter Christian Schwefel",
+        "journal": "Sensors",
+        "doi": "10.3390/s21175770",
+        "year": 2021
+        },
+        "7": {
+        "title": "On the use of Common Information Model for Smart Grid Applications - A Conceptual Approach",
+        "authors": "Kamal Shahid, Karthikeyan Nainar, Rasmus Lovenstein Olsen, Florin Iov, Michael Lyhne, Gabriele Morgante",
+        "journal": "IEEE Transactions on Smart Grid",
+        "year": 2021,
+        "doi":"10.1109/TSG.2021.3095896"
+        },
+        "8": {
+        "title": "ICT based Performance Evaluation of Primary Frequency Control Support from Renewable Power Plants in Smart Grids",
+        "authors": "Kamal Shahid, Müfit Altin, Lars Møller Mikkelsen, Rasmus Løvenstein Olsen, Florin Iov",
+        "journal": "Energies",
+        "doi": "10.3390/en11061329",
+        "year": 2018
+        },
+        "9": {
+        "title": "ICT Based HIL Validation of Voltage Control Coordination in Smart Grids Scenarios",
+        "authors": "Kamal Shahid, Lennart Petersen, Rasmus Løvenstein Olsen, Florin Iov",
+        "journal": "Energies",
+        "doi": "10.3390/en11061327",
+        "year": 2018
+        }
+
+}
+

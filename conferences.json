@@ -1,0 +1,39 @@
+[
+    {
+      "authors": ["Asma Farooq", "Kamal Shahid", "Rasmus L. Olsen"],
+      "conference_name": "Wireless Personal Multimedia Communications (WPMC)",
+      "year": "2022",
+      "institute": null
+    },
+    {
+      "authors": ["Kamal Shahid", "Rasmus L. Olsen", "Rolf Kirk"],
+      "conference_name": "Communications in Computer and Information Science",
+      "year": "2021",
+      "institute": "Springer International Publishing, Cham"
+    },
+    {
+      "authors": ["Asma Farooq", "Kamal Shahid", "Yonghao Gui", "Rasmus Løvenstein Olsen"],
+      "conference_name": "Renewable Power Generation - The 9th International Conference on Renewable Power Generation (RPG Dublin)",
+      "year": "2020",
+      "institute": null
+    },
+    {
+      "authors": ["Catalin-Iosif Ciontea", "Kamal Shahid", "Florin Iov", "Rasmus Løvenstein Olsen"],
+      "conference_name": "IEEE PES Innovative Smart Grid Technologies Europe (ISGT-Europe)",
+      "year": "2020",
+      "institute": "IEEE Press"
+    },
+    {
+      "authors": ["Nicola Nostro", "Kamal Shahid", "Andrea Bondavalli", "Hans-Peter Christian Schwefel"],
+      "conference_name": "European Dependable Computing Conference (EDCC)",
+      "year": "2019",
+      "institute": "IEEE, United States"
+    },
+    {
+      "authors": ["Kamal Shahid", "Enrico Schiavone", "Domagoj Drenjanac", "Michael Lyhne", "Rasmus Løvenstein Olsen", "Hans-Peter Christian Schwefel"],
+      "conference_name": "IEEE International Conference on Communications, Control, and Computing Technologies for Smart Grids (SmartGridComm)",
+      "year": "2019",
+      "institute": "IEEE, United States"
+    }
+  ]
+  
